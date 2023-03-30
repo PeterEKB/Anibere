@@ -2,7 +2,7 @@ import { TestBed } from '@angular/core/testing';
 
 import { StyleGuard } from './style.guard';
 
-describe('StyleGuardGuard', () => {
+describe('StyleGuard', () => {
   let guard: StyleGuard;
 
   beforeEach(() => {
